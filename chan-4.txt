@@ -1,0 +1,1 @@
+b"{'event_date': '2017-11-14T21:55:20', 'error_msg': 'Alerta N\xc3\xadvel 2', 'ip_maquina': '::1'}"
